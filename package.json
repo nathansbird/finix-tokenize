@@ -1,0 +1,14 @@
+{
+  "name": "finix-tokenize",
+  "version": "0.0.1",
+  "description": "Tokenizes a payment card for use with Finix Flex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Bird",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
